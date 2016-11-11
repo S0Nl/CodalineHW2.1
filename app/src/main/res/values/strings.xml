@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW1.1</string>
+    <string name="txtlog" />
+    <string name="txtpass">пароль</string>
+</resources>
